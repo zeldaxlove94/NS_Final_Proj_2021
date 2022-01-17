@@ -1,8 +1,5 @@
 # COM530500 Network Science Final Project
 
-
-林咏丘 通訊工程研究所 110064466
-
 ## 必要的套件 Needed Python Extension Packages (Python 3.9.7)
 
 must import **networkx, numpy , pandas , matplotlib , scipy , random , math** Packages in order to run the program
